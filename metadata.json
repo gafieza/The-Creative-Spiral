@@ -1,0 +1,6 @@
+{
+  "name": "The Creative Spiral",
+  "description": "A 12-week immersive apprenticeship in writing, craft architecture, and sustained fiction development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
